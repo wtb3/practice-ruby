@@ -1,0 +1,17 @@
+class Vehicle
+  def accelerate
+    puts "Accelerating..."
+  end
+end
+
+class Bicycle < Vehicle
+  def ring_bell
+    puts "Ring ring!"
+  end
+end
+
+class Car < Vehicle
+  def honk_horn
+    puts "Beeeeeeep!"
+  end
+end

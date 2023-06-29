@@ -1,0 +1,8 @@
+Exercise 1: Print a message to a pirate.
+put "Hello!
+	greeting = gets.chomp()
+if answer["Arrr!"]
+	  puts "Go away, pirate."
+	Elsif
+	  puts "Greetings, hater of pirates!"
+	w
