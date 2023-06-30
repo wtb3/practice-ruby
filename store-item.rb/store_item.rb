@@ -1,6 +1,6 @@
 module StoreItem
   def self.print_message
-    puts "Welcome to the Store Item module!"
+    puts "Welcome to Warren's SUPER COOL Store!"
   end
 
   class Item
